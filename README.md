@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-- I'm currently a 4th year Computer Engineering Student specializing in Intelligent Systems. 
+A tech-savvy individual pursuing a degree in Computer Engineering, with a specialized focus on Intelligent Systems. My relentless drive for excellence has led me to constantly delve into the latest advancements in technology, most notably Blockchain technology and its similar concepts. 
+
+Despite initially specializing in the hardware aspects of the discipline, my passion for research had sparked a keen interest in the realm of Data Analytics. This newfound interest has driven me to consistently seek to broaden my understanding.
+
+Beyond academic affairs, I am actively involved in various extra-curricular activities, most notably as one of the executives of Tempest Gaming Society — the forefront of campus esports in the Technological Institute of the Philippines - Quezon City.
 <!--
 **brruhyan/brruhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
