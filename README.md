@@ -5,6 +5,7 @@ A tech-savvy individual pursuing a degree in Computer Engineering, with a specia
 Despite initially specializing in the hardware aspects of the discipline, my passion for research had sparked a keen interest in the realm of Data Analytics. This newfound interest has driven me to consistently seek to broaden my understanding. 
 
 ## LET'S CONNECT!
+[<img src="FolderImages/linkedin.png">](https://www.linkedin.com/in/bpadeleon/),
 
 
 
