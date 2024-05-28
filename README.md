@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- I'm currently a 4th year Computer Engineering Student specializing in Intelligent Systems. 
 <!--
 **brruhyan/brruhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
