@@ -5,6 +5,8 @@ A tech-savvy individual pursuing a degree in Computer Engineering, with a specia
 Despite initially specializing in the hardware aspects of the discipline, my passion for research had sparked a keen interest in the realm of Data Analytics. This newfound interest has driven me to consistently seek to broaden my understanding. 
 
 ## LET'S CONNECT!
+![image](https://github.com/brruhyan/brruhyan/assets/134396548/7a6e03c8-28ac-402c-9b87-24006a7d2fed)
+
 <!--
 **brruhyan/brruhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
