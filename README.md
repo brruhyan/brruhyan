@@ -3,6 +3,8 @@
 A tech-savvy individual pursuing a degree in Computer Engineering, with a specialized focus on Intelligent Systems. My relentless drive for excellence has led me to constantly delve into the latest advancements in technology, most notably Blockchain technology and its similar concepts. 
 
 Despite initially specializing in the hardware aspects of the discipline, my passion for research had sparked a keen interest in the realm of Data Analytics. This newfound interest has driven me to consistently seek to broaden my understanding. 
+
+## LET'S CONNECT!
 <!--
 **brruhyan/brruhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
