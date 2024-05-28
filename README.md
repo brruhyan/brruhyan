@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👋
 
 A tech-savvy individual pursuing a degree in Computer Engineering, with a specialized focus on Intelligent Systems. My relentless drive for excellence has led me to constantly delve into the latest advancements in technology, most notably Blockchain technology and its similar concepts. 
 
