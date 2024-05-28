@@ -8,9 +8,11 @@ Despite initially specializing in the hardware aspects of the discipline, my pas
 <a href="https://www.linkedin.com/in/bpadeleon/">
   <img src="FolderImages/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;">
 </a>
+
 <a href="https://www.behance.net/konzaibonzai">
   <img src="FolderImages/behance.png" alt="Behance" style="width: 50px; height: auto;">
 </a>
+
 <a href="https://www.instagram.com/brruhyan/">
   <img src="FolderImages/instagram.png" alt="Instagram" style="width: 50px; height: auto;">
 </a>
