@@ -4,7 +4,9 @@ A tech-savvy individual pursuing a degree in Computer Engineering, with a specia
 Despite initially specializing in the hardware aspects of the discipline, my passion for research had sparked a keen interest in the realm of Data Analytics. This newfound interest has driven me to consistently seek to broaden my understanding. 
 
 ## Areas of Interest | Expertise
-My primary field of expertise is robotics and related concepts, specifically coding electromechanical systems. Additionally, I am capable of developing applications for projects, including IoT integration using Arduino Cloud. Furthermore, my passion for research had sparked a keen interest in the realm of data analytics, and I am currently developing my skills regarding this field. 
+My primary field of expertise is robotics and related concepts, specifically coding electromechanical systems. Additionally, I am capable of integrating IoT into to projects, and create 3D modeling of prototypes using Autodesk Fusion.
+
+Furthermore, my passion for research had sparked a keen interest in the realm of data analytics, and I am currently developing my skills regarding this field. 
 
 ## LET'S CONNECT!
 <a href="https://www.linkedin.com/in/bpadeleon/">
