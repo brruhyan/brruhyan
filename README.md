@@ -17,9 +17,6 @@ Furthermore, my passion for research had sparked a keen interest in the realm of
   <img src="FolderImages/behance.png" alt="Behance" style="width: 50px; height: auto;">
 </a>
 
-<a href="https://www.instagram.com/brruhyan/">
-  <img src="FolderImages/instagram.png" alt="Instagram" style="width: 50px; height: auto;">
-</a>
 
 
 
