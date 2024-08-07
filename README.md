@@ -6,7 +6,7 @@ Despite initially specializing in the hardware aspects of the discipline, my pas
 ## Areas of Interest | Expertise
 My primary field of expertise is robotics and related concepts, specifically coding electromechanical systems. Additionally, I am capable of integrating IoT into projects, as well as the creation of 3D Models of prototypes using Autodesk Fusion.
 
-Currently developing my skills in the realm of data science and its related concepts. Through my DataCamp scholarship I had acquired invaluable knowledge as evident when I was certified as a Data Literacy Professional. I am currently in the process of equipping myself with sufficient skills before tackling the Professional Data Scientist certification!
+Currently developing my skills in the realm of data science and its related concepts. Through my DataCamp scholarship I had acquired invaluable knowledge as evident by my certification as a Data Literacy Professional. I am currently in the process of equipping myself with sufficient skills before tackling the Professional Data Scientist certification!
 
 ## LET'S CONNECT!
 <a href="https://www.linkedin.com/in/bpadeleon/">
