@@ -8,14 +8,6 @@ My primary field of expertise is robotics and related concepts, specifically cod
 
 Currently developing my skills in the realm of data science and its related concepts. Through my DataCamp scholarship I had acquired invaluable knowledge as evident by my certification as a Data Literacy Professional. I am currently in the process of equipping myself with sufficient skills before tackling the Professional Data Scientist certification!
 
-## LET'S CONNECT!
-<a href="https://www.linkedin.com/in/bpadeleon/">
-  <img src="FolderImages/linkedin.png" alt="LinkedIn" style="width: 50px; height: auto;">
-</a>
-
-<a href="https://www.behance.net/konzaibonzai">
-  <img src="FolderImages/behance.png" alt="Behance" style="width: 50px; height: auto;">
-</a>
 
 
 
