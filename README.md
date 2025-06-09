@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bryan!</h1>
-<h3 align="left">A tech-savvy individual specializing in Intelligent Systems and Cloud Computing</h3>
+<h3 align="left">Computer Engineering | Cloud Computing | Data Analysis </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
