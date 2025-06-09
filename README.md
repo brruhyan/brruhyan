@@ -45,7 +45,3 @@ Passionate about <strong>technology, leadership, and innovation</strong>, I spec
   </a>
 </p>
 
----
-
-> 📫 *Let’s connect!*  
-> [LinkedIn](https://www.linkedin.com/in/bpadl/) | [GitHub](https://github.com/bpadl)
