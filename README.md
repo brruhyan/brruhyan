@@ -16,6 +16,8 @@ A tech-savvy individual pursuing a degree in Computer Engineering. My primary ex
 
 ### 📁 Projects
 
+- ShroomGuard – Deep Learning Model for Oyster Mushroom Harvesting System
+
 
 <hr>
 
