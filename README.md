@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Bryan Paul! 👋</h1>
 
-<h3 align="left">💻 Computer Engineering | Embedded Systems | Data Science Enthusiast</h3>
+<h3 align="left">💻 Computer Engineering | Cloud Computing | Data Analysis </h3>
 
 A tech-savvy individual pursuing a degree in Computer Engineering. My primary expertise lies within the field of embedded systems, where I specialize in coding electromechanical systems, integrating hardware with cloud-based solutions, and developing backend functionalities for projects.
 
