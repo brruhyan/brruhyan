@@ -2,7 +2,7 @@
 
 <h3 align="left">💻 Computer Engineering | Embedded Systems | Data Science Enthusiast</h3>
 
-Passionate about <strong>technology, leadership, and innovation</strong>, I specialize in embedded systems, machine learning, and computer vision. I'm actively involved in research, system design, and projects that aim to solve real-world problems.
+A tech-savvy individual pursuing a degree in Computer Engineering. My primary expertise lies within the field of embedded systems, where I specialize in coding electromechanical systems, integrating hardware with cloud-based solutions, and developing backend functionalities for projects.
 
 <hr>
 
