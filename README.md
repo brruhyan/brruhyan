@@ -1,18 +1,23 @@
-<h1 align="left">Hi 👋, I'm Bryan!</h1>
-<h3 align="left">Computer Engineering | Cloud Computing | Data Analysis </h3>
+<h1 align="left">Hi there, I'm Bryan Paul! 👋</h1>
+
+<h3 align="left">💻 Computer Engineering | Embedded Systems | Data Science Enthusiast</h3>
+
+Passionate about <strong>technology, leadership, and innovation</strong>, I specialize in embedded systems, machine learning, and computer vision. I'm actively involved in research, system design, and projects that aim to solve real-world problems.
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/bpadl/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+### 🔥 About Me
+
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+### 📁 Projects
+
+
+<hr>
+
+### ⚡ Skills
+
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -29,7 +34,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
- 
+  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
@@ -38,4 +45,7 @@
   </a>
 </p>
 
-<hr>
+---
+
+> 📫 *Let’s connect!*  
+> [LinkedIn](https://www.linkedin.com/in/bpadl/) | [GitHub](https://github.com/bpadl)
