@@ -17,6 +17,8 @@ A tech-savvy individual pursuing a degree in Computer Engineering. My primary ex
 ### 📁 Projects
 
 - ShroomGuard – Deep Learning Model for Oyster Mushroom Harvesting System
+- ThermoDeliver – Temperature Regulation System for Food Delivery using Proportional-Integral-Derivative
+- FumeShroom – Feedback and Control System for Mushroom Cultivation
 
 
 <hr>
