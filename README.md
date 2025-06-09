@@ -6,7 +6,7 @@ A tech-savvy individual pursuing a degree in Computer Engineering. My primary ex
 
 <hr>
 
-### 🔥 About Me
+### 💻 About Me
 
 
 <hr>
