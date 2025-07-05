@@ -10,7 +10,7 @@ A tech-savvy individual pursuing a degree in Computer Engineering. My primary ex
 
 - AWS Certified Cloud Practitioner
 - Alteryx Designer Core Certified
-- 3rd Place CpE Design Project Pitch
+- 2x Oracle Certified
 
 <hr>
 
