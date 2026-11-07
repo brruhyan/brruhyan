@@ -1,55 +1,35 @@
-<h1 align="left">Hi there, I'm Bryan Paul! 👋</h1>
+## Profile snapshot
 
-<h3 align="left"> Computer Engineering | Cloud Computing | Data Analysis </h3>
-
-A tech-savvy individual pursuing a degree in Computer Engineering. My primary expertise lies within the field of embedded systems, where I specialize in coding electromechanical systems, integrating hardware with cloud-based solutions, and developing backend functionalities for projects.
-
-<hr>
-
-### 💻 About Me
-
-- AWS Certified Cloud Practitioner
-- Alteryx Designer Core Certified
-- 2x Oracle Certified
-
-<hr>
-
-### 📁 Projects
-
-- ShroomGuard – Deep Learning Model for Oyster Mushroom Harvesting System
-- ThermoDeliver – Temperature Regulation System for Food Delivery using Proportional-Integral-Derivative
-- FumeShroom – Feedback and Control System for Mushroom Cultivation
-
-
-<hr>
-
-### ⚡ Skills
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=brruhyan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F134396548%3Fv%3D4" alt="brruhyan hero visual" />
 </p>
 
-<hr>
+**Bry** · Backend or systems engineer
 
+## I'm 14 years old. Frontend Web Developer
 
+Building useful things and learning in public.
 
+- 👥 **6** followers · **5** following
+
+## HTML, Css, JS, React Js, Next.js
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `Jupyter Notebook` ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) `Blade` ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## Smena
+
+- **[brruhyanRobotics](https://github.com/brruhyan/brruhyanRobotics)** — Robotics Portfolio · ⭐ 0
+- **[DataScienceReviewer](https://github.com/brruhyan/DataScienceReviewer)** — Featured public work · ⭐ 0
+- **[flaskMushroom](https://github.com/brruhyan/flaskMushroom)** — Featured public work · ⭐ 0
+- **[PD2Notifs](https://github.com/brruhyan/PD2Notifs)** — Featured public work · ⭐ 0
+- **[dockerized-shroomguard](https://github.com/brruhyan/dockerized-shroomguard)** — Featured public work · ⭐ 0
+
+## osimxon992@gmail.com
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=brruhyan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F134396548%3Fv%3D4" alt="brruhyan social visual" />
+</p>
+
+<a href="https://github.com/brruhyan">GitHub</a>
+
+<p align="center"><sub>Bry · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-remix-dl0a">Recruiter-ready Remix</a> template by <a href="https://www.gitskins.com/creators/osimxon992-png">@osimxon992-png</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
